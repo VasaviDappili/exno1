@@ -145,7 +145,7 @@ Q3=ir.sepal_width.quantile(0.75)
 
 IQR=Q3-Q1
 
-print(Q3)
+print(IQR)
 ```
 
 ![image](https://github.com/user-attachments/assets/0a434552-5d82-4a4f-b7b6-a01684b584e0)
